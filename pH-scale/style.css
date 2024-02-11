@@ -1,0 +1,83 @@
+body{
+    background-color: silver;
+    padding: 20px;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    background-color: hsla(0, 100%, 100%, 0.5);
+    padding: inherit;
+}
+p{
+    padding: 5px;
+    margin: 0px;
+}
+.p14{
+    background-color: rgb(3, 121, 175);
+color: white;
+}
+.p13{
+    background-color: rgb(22, 141, 177);
+    color: white;
+}
+.p12{
+    background-color: rgb(70, 158, 170);
+    color: white;
+}
+.p11{
+    background-color: rgb(108, 202, 240);
+    color: white;
+}
+.p10{
+    background-color: rgb(154, 218, 243);
+    color: white;
+}
+.p9{
+    background-color: rgb(171, 215, 233);
+    color: white;
+}
+.p8{
+    background-color: rgb(155, 191, 206);
+    color: white;
+}
+.p7{
+    background-color: rgb(5, 85, 61);
+    color: white;
+}
+.p6{
+    background-color: rgb(247, 168, 185);
+    color: white;
+}
+.p5{
+    background-color: rgb(240, 140, 161);
+    color: white;
+}
+.p4{
+    background-color: rgb(236, 114, 141);
+
+    color: white;
+}
+.p3{
+    background-color: rgb(235, 84, 117);
+
+    color: white;
+}
+.p2{
+    background-color: rgb(209, 49, 83);
+
+    color: white;
+}
+.p1{
+    background-color: rgb(199, 41, 75);
+
+    color: white;
+}
+.p0{
+    background-color: rgb(211, 25, 66);
+
+    color: white;
+}
